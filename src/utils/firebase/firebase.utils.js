@@ -8,12 +8,13 @@ import { getFirestore, doc, getDoc, setDoc, collection, writeBatch, query, getDo
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyACX0yPMt_3YQrs3miHbFcIdUCYJWSt6tc",
-    authDomain: "crown-clothing-e-commerce.firebaseapp.com",
-    projectId: "crown-clothing-e-commerce",
-    storageBucket: "crown-clothing-e-commerce.appspot.com",
-    messagingSenderId: "162081928209",
-    appId: "1:162081928209:web:f66bfc3230df23ec072db0"
+    apiKey: "AIzaSyBvKs8-hc0Utp953U6-45S384LcED2SJEs",
+    authDomain: "crwn-clothing-v2-16d1f.firebaseapp.com",
+    projectId: "crwn-clothing-v2-16d1f",
+    storageBucket: "crwn-clothing-v2-16d1f.appspot.com",
+    messagingSenderId: "93084494948",
+    appId: "1:93084494948:web:9429725446b38fbb46c371",
+    measurementId: "G-QW2YB2X12L"
 };
 
 // Initialize Firebase
